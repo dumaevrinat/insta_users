@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {Provider} from "react-redux"
 import store from "../../store"
-import {BrowserRouter, Route, Switch} from "react-router-dom"
+import {BrowserRouter, HashRouter, Route, Switch} from "react-router-dom"
 import NotFoundPage from "../Pages/NotFoundPage"
 import UserPage from "../Pages/UserPage"
 import Header from "../Header"
@@ -74,7 +74,7 @@ export default function App() {
         <Provider store={store}>
             <ThemeProvider theme={responsiveFontSizes(customTheme)}>
                 <Context.Provider value={{toggleMenu}}>
-                    <BrowserRouter basename={process.env.PUBLIC_URL}>
+                    <HashRouter>
                         <div className={classes.root}>
                             <Header/>
 
@@ -94,7 +94,7 @@ export default function App() {
                                 </Container>
                             </div>
                         </div>
-                    </BrowserRouter>
+                    </HashRouter>
                 </Context.Provider>
             </ThemeProvider>
         </Provider>
