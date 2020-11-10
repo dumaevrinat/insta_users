@@ -96,7 +96,7 @@ export default function TasksPage() {
                     {tasks.length === 0 && <Empty/>}
 
                     {tasks.map((task) =>
-                        <Task task={task}/>
+                        <Task key={task.id} task={task}/>
                     )}
                 </div>
             </Section>
