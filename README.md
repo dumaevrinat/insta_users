@@ -7,8 +7,7 @@
 <br>
 *It allows to create sets of accounts, to perform the basic operations on the set and export sets to csv files.*
 
-*Try out **insta->users** at <a href="https://dumaevrinat.github.io/insta_users"> dumaevrinat.github.io/insta_users </a>*
-
+*Try out **insta->users** at <a href="https://dumaevrinat.github.io/insta_users"> dumaevrinat.github.io/insta_users </a>.*
 <p align="center">
     <a href="//dumaevrinat.github.io/insta_users">
       <img src="https://user-images.githubusercontent.com/44341469/98611689-79301380-2303-11eb-848a-c10fb2fbdade.png" width="800" />
