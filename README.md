@@ -1,6 +1,6 @@
 <div align="center">
 <a href="//dumaevrinat.github.io/insta_users">
-  <img src="https://user-images.githubusercontent.com/44341469/98612598-8817c580-2305-11eb-8ffd-d95cee70abde.png" height="80" />
+  <img src="https://user-images.githubusercontent.com/44341469/98612598-8817c580-2305-11eb-8ffd-d95cee70abde.png" width="340" />
 </a>
 
 ***insta->users** is a tool for  collecting accounts from Instagram.*
