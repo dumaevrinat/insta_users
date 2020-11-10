@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {Provider} from "react-redux"
 import store from "../../store"
-import {BrowserRouter, HashRouter, Route, Switch} from "react-router-dom"
+import {HashRouter, Route, Switch} from "react-router-dom"
 import NotFoundPage from "../Pages/NotFoundPage"
 import UserPage from "../Pages/UserPage"
 import Header from "../Header"
