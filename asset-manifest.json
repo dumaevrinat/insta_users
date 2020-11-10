@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/insta_users/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/insta_users/static/js/main.36439933.chunk.js",
-    "main.js.map": "/insta_users/static/js/main.36439933.chunk.js.map",
+    "main.js": "/insta_users/static/js/main.8a6c946f.chunk.js",
+    "main.js.map": "/insta_users/static/js/main.8a6c946f.chunk.js.map",
     "runtime-main.js": "/insta_users/static/js/runtime-main.aa34f739.js",
     "runtime-main.js.map": "/insta_users/static/js/runtime-main.aa34f739.js.map",
     "static/js/2.d63b178a.chunk.js": "/insta_users/static/js/2.d63b178a.chunk.js",
     "static/js/2.d63b178a.chunk.js.map": "/insta_users/static/js/2.d63b178a.chunk.js.map",
     "index.html": "/insta_users/index.html",
-    "precache-manifest.49bc9ee9ab1bac64a420e13c9b678853.js": "/insta_users/precache-manifest.49bc9ee9ab1bac64a420e13c9b678853.js",
+    "precache-manifest.34b7c026f3450b1ca805dcc4541aa9da.js": "/insta_users/precache-manifest.34b7c026f3450b1ca805dcc4541aa9da.js",
     "service-worker.js": "/insta_users/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/insta_users/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.d63b178a.chunk.js.LICENSE.txt": "/insta_users/static/js/2.d63b178a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.aa34f739.js",
     "static/js/2.d63b178a.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.36439933.chunk.js"
+    "static/js/main.8a6c946f.chunk.js"
   ]
 }
